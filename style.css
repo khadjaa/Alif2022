@@ -1,0 +1,10 @@
+.image{
+   position: relative;
+   width: 300px;
+}
+
+.image .like{
+    position: absolute;
+    bottom: 15px;
+    left: 15px ;
+}
