@@ -1,5 +1,5 @@
 .social-list{
     display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
-    grid-template-rows: 20% 20% 20% 20% 20%;
+    grid-template-columns: 1fr, 1fr;
+    grid-template-rows: auto;
 }
