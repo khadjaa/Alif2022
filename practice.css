@@ -2,3 +2,8 @@
    display: flex;
    justify-content: space-around;
 }
+.social-list{
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+}
